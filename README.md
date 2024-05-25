@@ -2,4 +2,4 @@
 慕课网视频下载器
 直接下载使用。暂时只支持windows
 
-使用方式：https://www.bilibili.com/video/BV1gw4m1Q79s/
+使用方式：[https://www.bilibili.com/video/BV1gw4m1Q79s/](https://www.bilibili.com/video/BV1Uw4m1D74J/)
